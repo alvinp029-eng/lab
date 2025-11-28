@@ -1,0 +1,14 @@
+{
+    "name": "alvin/lab",
+    "description": "silabkom",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "alvin"
+        }
+    ],
+    "require": {
+        "tecnickcom/tcpdf": "^6.10"
+    }
+}
